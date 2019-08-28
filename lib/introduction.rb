@@ -4,6 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 # introduction
 def name 
+  puts "Hi, my name is #{name}."
 
 
 
